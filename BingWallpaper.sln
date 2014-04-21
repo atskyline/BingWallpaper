@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBaseAPI", "test\TestBaseAPI\TestBaseAPI.csproj", "{C9E89C8D-41BA-4192-93A2-D2943EA06BC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BingWallpaper", "src\BingWallpaper.csproj", "{3050E67A-DD29-4477-BA89-F10E9E33B846}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4AA93467-6614-428A-845D-642D6C6B3DE8}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E89C8D-41BA-4192-93A2-D2943EA06BC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E89C8D-41BA-4192-93A2-D2943EA06BC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E89C8D-41BA-4192-93A2-D2943EA06BC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E89C8D-41BA-4192-93A2-D2943EA06BC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3050E67A-DD29-4477-BA89-F10E9E33B846}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3050E67A-DD29-4477-BA89-F10E9E33B846}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3050E67A-DD29-4477-BA89-F10E9E33B846}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3050E67A-DD29-4477-BA89-F10E9E33B846}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
